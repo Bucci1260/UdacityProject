@@ -1,1 +1,1 @@
-# UdacityProject
+# Udacity-image-project
